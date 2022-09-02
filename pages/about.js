@@ -8,7 +8,7 @@ class About extends React.Component {
 
   render() {
     return (
-      <BaseLayout title="Filip Jerga - Learn More About Me" {...this.props.auth}>
+      <BaseLayout title="Jalpa Patel - Learn More About Me" {...this.props.auth}>
         <BasePage className="about-page">
           <Row className="mt-5">
             <Col md="6">
@@ -20,7 +20,7 @@ class About extends React.Component {
             </Col>
             <Col md="6">
               <div className="fadein">
-                <p>My name is Filip Jerga and I am an experienced software engineer and freelance developer. </p>
+                <p>I am Jalpa Patel, an experienced software engineer and freelance developer. </p>
                 <p>
                 I have a Master's degree in Artificial Intelligence and several years of experience working
                 on a wide range of technologies and projects from C++ development for ultrasound devices to
